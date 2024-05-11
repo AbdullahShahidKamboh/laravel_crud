@@ -1,0 +1,205 @@
+
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 25,
+    "city": "New York",
+    "description": "Protective case for various smartphones",
+    "price": 50.99,
+    "contactsNum": 1234567890,
+    "action": "delivered"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 30,
+    "city": "Los Angeles",
+    "description": "Compact and high-speed portable charger",
+    "price": 99.99,
+    "contactsNum": 9876543210,
+    "action": "not delivered"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "age": 40,
+    "city": "Chicago",
+    "description": "Phone grip and stand accessory",
+    "price": 149.99,
+    "contactsNum": 1357924680,
+    "action": "delivered"
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "age": 35,
+    "city": "Houston",
+    "description": "Smartwatch with health tracking features",
+    "price": 79.99,
+    "contactsNum": 2468013579,
+    "action": "not delivered"
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "age": 28,
+    "city": "Miami",
+    "description": "Wireless earbuds with active noise cancellation",
+    "price": 39.99,
+    "contactsNum": 9876543210,
+    "action": "delivered"
+  },
+  {
+    "id": 6,
+    "name": "Michael Wilson",
+    "age": 32,
+    "city": "San Francisco",
+    "description": "Portable Bluetooth speaker with powerful sound",
+    "price": 199.99,
+    "contactsNum": 1234567890,
+    "action": "not delivered"
+  },
+  {
+    "id": 7,
+    "name": "Sarah Martinez",
+    "age": 27,
+    "city": "Dallas",
+    "description": "Clear protective case for smartphones",
+    "price": 129.99,
+    "contactsNum": 1357924680,
+    "action": "delivered"
+  },
+  {
+    "id": 8,
+    "name": "David Anderson",
+    "age": 45,
+    "city": "Seattle",
+    "description": "Fast wireless charging pad for smartphones",
+    "price": 299.99,
+    "contactsNum": 2468013579,
+    "action": "not delivered"
+  },
+  {
+    "id": 9,
+    "name": "Jessica Taylor",
+    "age": 31,
+    "city": "Boston",
+    "description": "True wireless earbuds with diamond-coated drivers",
+    "price": 69.99,
+    "contactsNum": 1234567890,
+    "action": "delivered"
+  },
+  {
+    "id": 10,
+    "name": "Chris Garcia",
+    "age": 38,
+    "city": "Atlanta",
+    "description": "Qi-certified wireless charging stand for smartphones",
+    "price": 159.99,
+    "contactsNum": 9876543210,
+    "action": "not delivered"
+  },
+  {
+    "id": 11,
+    "name": "Olivia Hernandez",
+    "age": 26,
+    "city": "Denver",
+    "description": "Durable phone screen protector",
+    "price": 19.99,
+    "contactsNum": 2468013579,
+    "action": "delivered"
+  },
+  {
+    "id": 12,
+    "name": "Daniel Gonzalez",
+    "age": 34,
+    "city": "Phoenix",
+    "description": "Wireless charging car mount",
+    "price": 79.99,
+    "contactsNum": 1234567890,
+    "action": "not delivered"
+  },
+  {
+    "id": 13,
+    "name": "Sophia Perez",
+    "age": 36,
+    "city": "Philadelphia",
+    "description": "Bluetooth earphones with noise cancellation",
+    "price": 89.99,
+    "contactsNum": 1357924680,
+    "action": "delivered"
+  },
+  {
+    "id": 14,
+    "name": "James Lopez",
+    "age": 24,
+    "city": "Detroit",
+    "description": "360-degree phone camera lens",
+    "price": 49.99,
+    "contactsNum": 9876543210,
+    "action": "not delivered"
+  },
+  {
+    "id": 15,
+    "name": "Isabella Torres",
+    "age": 37,
+    "city": "San Diego",
+    "description": "Portable phone charger with built-in cables",
+    "price": 29.99,
+    "contactsNum": 1234567890,
+    "action": "delivered"
+  },
+  {
+    "id": 16,
+    "name": "William Moore",
+    "age": 23,
+    "city": "Minneapolis",
+    "description": "Magnetic phone car mount",
+    "price": 14.99,
+    "contactsNum": 1357924680,
+    "action": "not delivered"
+  },
+  {
+    "id": 17,
+    "name": "Ethan Jackson",
+    "age": 38,
+    "city": "Portland",
+    "description": "Wireless charging mouse pad",
+    "price": 39.99,
+    "contactsNum": 2468013579,
+    "action": "delivered"
+  },
+  {
+    "id": 18,
+    "name": "Ava Martin",
+    "age": 22,
+    "city": "Charlotte",
+    "description": "Smartphone camera lens kit",
+    "price": 34.99,
+    "contactsNum": 1234567890,
+    "action": "not delivered"
+  },
+  {
+    "id": 19,
+    "name": "Mia Lee",
+    "age": 39,
+    "city": "Las Vegas",
+    "description": "Bluetooth waterproof speaker",
+    "price": 79.99,
+    "contactsNum": 1357924680,
+    "action": "delivered"
+  },
+  {
+    "id": 20,
+    "name": "Alexander White",
+    "age": 21,
+    "city": "Orlando",
+    "description": "Flexible phone tripod",
+    "price": 19.99,
+    "contactsNum": 2468013579,
+    "action": "not delivered"
+  }
+]
+
+
